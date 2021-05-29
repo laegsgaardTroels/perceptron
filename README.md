@@ -1,5 +1,5 @@
 # Perceptron
 
-An example of the perceptron on the mnist dataset.
+An example of the multiclass perceptron algorithm on the mnist dataset.
 
 ![](neuron.png)
